@@ -7,289 +7,247 @@
       42.3
     ],
     [
-      "SUI/SUI001",
-      "QFX",
-      "QFX FOILER",
-      35.71
-    ],
-    [
       "ITA/ITA111U30",
       "BANDALARGA",
       "Ultimate 30",
       30.23
     ],
     [
-      "POL/POL20180",
-      "I LOVE POLAND",
-      "VOLVO OPEN 70",
-      24.52
-    ],
-    [
-      "AUS/HKG2276",
-      "SHK SCALLYWAG",
-      "SUPER MAXI",
-      23.92
-    ],
-    [
-      "AUS/525100",
-      "BLACK JACK 100",
-      "Super maxi 100'",
-      23.14
-    ],
-    [
-      "AUS/AUS03",
-      "Noahs 2",
-      "Volvo 70",
-      22.87
-    ],
-    [
-      "AUT/AUT11",
-      "Monster Project",
-      "VOLVO 70",
-      22.4
-    ],
-    [
-      "ITA/GBR25555",
-      "SCHOKWAVE 3",
-      "90' Sloop",
-      22.05
-    ],
-    [
-      "USA/USA60722",
-      "Proteus",
+      "ESP/MLT5",
+      "BALTHASAR",
       "Maxi 72",
-      21.73
+      21.52
+    ],
+    [
+      "GER/BOD49",
+      "WILD LADY",
+      "WILKE 49",
+      21.0
+    ],
+    [
+      "USA/USA88856",
+      "Bad Pak",
+      "Botin 56",
+      20.47
+    ],
+    [
+      "ESP/GBR1363R",
+      "KINE",
+      "Infinti 36 GT",
+      20.45
+    ],
+    [
+      "CAN/CAN7779",
+      "Mach 2",
+      "Andrews 77",
+      20.01
+    ],
+    [
+      "ESP/ESP51_C",
+      "IMOCA ESCOLA VELA",
+      "IMOCA\u00a060",
+      19.98
+    ],
+    [
+      "GER/SUI52111",
+      "MUSICA",
+      "TP 52",
+      19.78
+    ],
+    [
+      "BRA/FRA5211",
+      "CRIOULA 52",
+      "TP52",
+      19.7
     ]
   ],
   "min_speed": [
     [
-      "NED/NED2318",
-      "GoffelS",
-      "Loper",
-      6.81
-    ],
-    [
-      "ESP/ESP10497_C",
-      "ISFAGEL",
-      "CUTLASS 27",
-      6.8
-    ],
-    [
-      "GRE/GRE1505",
-      "ALMYRA",
-      "EVASION 28",
-      6.8
-    ],
-    [
-      "GRE/GRE49032",
-      "ANEMORIA",
-      "DROMOR 26",
-      6.77
-    ],
-    [
-      "GRE/GRE1772",
-      "PRINGIPESSA",
-      "MACWESTER 27",
-      6.71
-    ],
-    [
-      "GRE/GRE1874",
-      "ELPIDA",
-      "COBRA 850",
-      6.66
-    ],
-    [
-      "GRE/GRE49571",
-      "ANTHIIS",
-      "UNKNOWN",
-      6.54
-    ],
-    [
-      "NOR/NOR2473",
-      "Karin",
-      "LEISURE 17",
-      6.53
-    ],
-    [
-      "NED/NED1117",
-      "Wynsnobber",
+      "NED/NED737",
+      "IJsvogel",
       "NORDIC FOLKBOAT",
-      6.5
+      7.4
     ],
     [
-      "GRE/GRE1330",
-      "ARGO",
-      "FISHER 25 GRECO",
-      6.28
+      "NED/NED2211",
+      "IFje",
+      "IF",
+      7.4
+    ],
+    [
+      "NED/GBR8340N",
+      "Frankie",
+      "HUNTER SONATA 7",
+      7.39
+    ],
+    [
+      "ESP/ESP4706_C",
+      "DICIASSETTE",
+      "MARIEHOLM 26",
+      7.39
+    ],
+    [
+      "GRE/GRE4942",
+      "SIBYLLA",
+      "EYGTHENE 24",
+      7.39
+    ],
+    [
+      "ESP/ESP3219_C",
+      "TIO TONI",
+      "HUNTER MARATON",
+      7.38
+    ],
+    [
+      "ITA/ITA13560",
+      "ULISSE",
+      "proto",
+      7.3
+    ],
+    [
+      "NOR/NOR16271",
+      "Sigrid",
+      "Monark 700 Miniton",
+      7.29
+    ],
+    [
+      "ESP/POR25691_C",
+      "CARAVELA",
+      "DUFOUR 24",
+      7.24
+    ],
+    [
+      "GRE/GRE1437",
+      "YANI",
+      "HURLEY 22",
+      7.09
     ]
   ],
   "max_length": [
     [
-      "MLT/SY272",
-      "PATH",
-      "Baltic 146",
-      44.56
+      "GBR/GBR7772R",
+      "LIBERTY SQUARED",
+      "SWS 96#05",
+      29.741
     ],
     [
-      "GRE/SURAMA",
-      "SURAMA",
-      null,
-      40.645
+      "ESP/ESP9933",
+      "PLIS-PLAY",
+      "SWAN 80 (99)",
+      24.41
     ],
     [
-      "USA/USA61620",
-      "NIMETA II",
-      "Oceanis 393",
-      38.136
+      "ESP/W805",
+      "ROSE",
+      "Wally 80",
+      23.902
     ],
     [
-      "USA/USA33623",
-      "Spectre",
-      "F3",
-      36.22
+      "CAN/CAN7779",
+      "Mach 2",
+      "Andrews 77",
+      23.47
     ],
     [
-      "MLT/SY293",
-      "PERSEVERANCE",
-      "Baltic 117",
-      35.553
+      "ESP/ESP9495",
+      "ALZIRA MORAIRA",
+      "SWAN 75",
+      23.276
     ],
     [
-      "GBR/1124",
-      "Eratosthenes",
-      "Swan 112",
-      34.34
+      "NOR/NOR15731",
+      "Enderpearl",
+      "CNB 76",
+      23.16
     ],
     [
-      "MLT/MLT112",
-      "SHAGALA BAGALA",
-      "Baltic 112 R/P",
-      34.288
+      "GER/GER8088",
+      "CALYPSO",
+      "MAXI DOLPHIN 75",
+      22.972
     ],
     [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
-      33.035
+      "ITA/ITA72001",
+      "PANTAREI 2",
+      "Grand Soleil 72 p.",
+      22.0
     ],
     [
-      "GRE/GBR106",
-      "WALLY B",
-      "BRENTA 106",
-      33.0
+      "ITA/ITA18162",
+      "SHANTI",
+      "Grand Soleil 72 P",
+      22.0
     ],
     [
-      "ITA/ITA1946",
-      "ULISSE",
-      "Frers 105'",
-      32.777
+      "ESP/MLT5",
+      "BALTHASAR",
+      "Maxi 72",
+      21.964
     ]
   ],
   "max_displacement": [
     [
-      "GRE/SURAMA",
-      "SURAMA",
-      null,
-      250177.0
+      "GBR/GBR7772R",
+      "LIBERTY SQUARED",
+      "SWS 96#05",
+      67353.0
     ],
     [
-      "MLT/SY272",
-      "PATH",
-      "Baltic 146",
-      174081.0
+      "NED/NED8385",
+      "PH III",
+      "CONTEST 72CS (MOD)",
+      48256.0
     ],
     [
-      "AUS/0100",
-      "Maritimo 100",
-      "Oyster 100",
-      115307.0
+      "ESP/ESP9495",
+      "ALZIRA MORAIRA",
+      "SWAN 75",
+      47298.0
     ],
     [
-      "MLT/SY293",
-      "PERSEVERANCE",
-      "Baltic 117",
-      105125.0
+      "NOR/NOR15731",
+      "Enderpearl",
+      "CNB 76",
+      47276.0
     ],
     [
-      "GBR/1124",
-      "Eratosthenes",
-      "Swan 112",
-      101870.0
+      "ESP/ESP9933",
+      "PLIS-PLAY",
+      "SWAN 80 (99)",
+      38212.0
     ],
     [
-      "ITA/ITA1946",
-      "ULISSE",
-      "Frers 105'",
-      95604.0
+      "ESP/W805",
+      "ROSE",
+      "Wally 80",
+      35880.0
     ],
     [
-      "MLT/MLT112",
-      "SHAGALA BAGALA",
-      "Baltic 112 R/P",
-      88057.0
+      "GER/MLT808",
+      "LUCID",
+      "Y7",
+      35367.0
     ],
     [
-      "GRE/GBR106",
-      "WALLY B",
-      "BRENTA 106",
-      82098.0
+      "ITA/ITA72001",
+      "PANTAREI 2",
+      "Grand Soleil 72 p.",
+      32316.0
     ],
     [
-      "USA/USA22261",
-      "WHITEHAWK",
-      "KING 104",
-      80999.0
+      "ITA/ITA18162",
+      "SHANTI",
+      "Grand Soleil 72 P",
+      30981.0
     ],
     [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
-      79627.0
+      "ESP/GBR1110N",
+      "EXPRESSION OF LONDON",
+      "BORDEAUX 60 SD",
+      30701.0
     ]
   ],
   "max_draft": [
-    [
-      "GRE/SURAMA",
-      "SURAMA",
-      null,
-      6.92
-    ],
-    [
-      "USA/USA33623",
-      "Spectre",
-      "F3",
-      6.84
-    ],
-    [
-      "AUS/HKG2276",
-      "SHK SCALLYWAG",
-      "SUPER MAXI",
-      6.52
-    ],
-    [
-      "FIN/AUS11111",
-      "CQS",
-      "SUPER MAXI",
-      6.01
-    ],
-    [
-      "MLT/SY293",
-      "PERSEVERANCE",
-      "Baltic 117",
-      5.99
-    ],
-    [
-      "MLT/SY272",
-      "PATH",
-      "Baltic 146",
-      5.91
-    ],
-    [
-      "AUS/AUS10001",
-      "WILD OATS XI",
-      "REICHEL/PUGH 30m",
-      5.89
-    ],
     [
       "ESP/MLT5",
       "BALTHASAR",
@@ -297,16 +255,58 @@
       5.65
     ],
     [
-      "NED/NED3405",
-      "HannaH",
-      "Bestevaer 56",
-      5.53
-    ],
-    [
       "GBR/GBR7772R",
       "LIBERTY SQUARED",
       "SWS 96#05",
       5.52
+    ],
+    [
+      "ESP/ESP51_C",
+      "IMOCA ESCOLA VELA",
+      "IMOCA\u00a060",
+      4.45
+    ],
+    [
+      "GER/GER8088",
+      "CALYPSO",
+      "MAXI DOLPHIN 75",
+      4.42
+    ],
+    [
+      "ITA/ITA18162",
+      "SHANTI",
+      "Grand Soleil 72 P",
+      4.41
+    ],
+    [
+      "CAN/CAN7779",
+      "Mach 2",
+      "Andrews 77",
+      4.3
+    ],
+    [
+      "ESP/W805",
+      "ROSE",
+      "Wally 80",
+      4.3
+    ],
+    [
+      "ESP/ESP9933",
+      "PLIS-PLAY",
+      "SWAN 80 (99)",
+      4.25
+    ],
+    [
+      "ESP/ESP68",
+      "PELOTARI",
+      "VISMARA 68",
+      4.25
+    ],
+    [
+      "ITA/ITA77774",
+      "FLYINGNIKKA",
+      null,
+      4.25
     ]
   ]
 }

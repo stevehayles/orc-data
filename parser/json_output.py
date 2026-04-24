@@ -9,7 +9,7 @@ from .util import time_allowance2speed
 # for boats without a sailnumber, give them a unique number
 counter = count()
 
-SITE_PATH = Path("site")
+SITE_PATH = Path("docs")
 INDEX_PATH = SITE_PATH / "index.json"
 EXTREMES_PATH = SITE_PATH / "extremes.json"
 DATA_PATH = SITE_PATH / "data"
@@ -103,7 +103,7 @@ def jsonwriter_site(rmsdata):
     # Write data for each boat to json
     for boat in data:
         sailnumber = boat["sailnumber"]
-        with open(f"site/data/{sailnumber}.json", "w+") as outfile:
+        with open(SITE_PATH / f"data/{sailnumber}.json", "w+") as outfile:
             json.dump(boat, outfile, indent=2)
 
 

@@ -3,7 +3,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 // docs: https://vitejs.dev/guide/build.html
 export default defineConfig({
     base: '',
-    root: 'site',
+    root: 'docs',
     publicDir: 'public',
     build: {
         outDir: './build/',
@@ -25,7 +25,7 @@ export default defineConfig({
             configureServer(server) {
                 server.middlewares.use((req, res, next) => {
                     if (req.url === '/') {
-                        res.writeHead(302, { Location: '/site/index.html' });
+                        res.writeHead(302, { Location: '/docs/index.html' });
                         res.end();
                     } else {
                         next();
