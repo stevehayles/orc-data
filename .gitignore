@@ -1,5 +1,5 @@
-ALL2015.rms
-/data/
+ALL*.json
+/data/**
 site/bundle.js.map
 meetbrieven/
 *.pyc
